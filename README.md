@@ -1,3 +1,3 @@
-# algorithms-TP-
+# algorithms.TP
 Технопарк 1 семестр
 Задачи по Алгоритмам
